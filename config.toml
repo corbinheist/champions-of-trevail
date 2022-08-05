@@ -1,6 +1,7 @@
 baseURL = 'https://corbinheist.github.io/champions-of-trevail'
 languageCode = 'en-us'
 title = 'Champions of Trevail'
+theme = "hugo-book"
 
 [params]
   BookSection = '*'
