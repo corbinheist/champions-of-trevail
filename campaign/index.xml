@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campaigns on Champions of Trevail</title>
+    <link>https://corbinheist.github.io/champions-of-trevail/campaign/</link>
+    <description>Recent content in Campaigns on Champions of Trevail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2022 20:04:35 -0700</lastBuildDate><atom:link href="https://corbinheist.github.io/champions-of-trevail/campaign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campaign Summary</title>
+      <link>https://corbinheist.github.io/champions-of-trevail/campaign/campaign-summary/</link>
+      <pubDate>Thu, 14 Jul 2022 20:04:35 -0700</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/campaign/campaign-summary/</guid>
+      <description>Campaign - Introduction # The Pitch # The world rumbles of a coming desolation. Darkness is rising across multiple fronts. Rifts open Old Alliances falter, the once-powerful nations are reduced to city-states and vassal states. Nations fall into isolationism and corruption. Brigands or worse roam the borderlands inbetween. Corruption and Insanity are constant dangers. Grimdark Fantasy, expect hard choices and grey tasks and everything has a price - but this is still fantasy.</description>
+    </item>
+    
+  </channel>
+</rss>
