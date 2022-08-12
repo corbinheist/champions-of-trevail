@@ -29,7 +29,7 @@ draft: false
 
 ## Factions
 
-> The players as a group are all members of, or associated with, This will be a major part of session-0...
+> The players as a group are all members of, or associated with, This will be a major part of session-0... Here are a few ideas...
  
 - Knightly Orders
 - The Assembly and Machinations of the Crown
@@ -41,21 +41,27 @@ draft: false
 
 ### Guidelines
 
+#### Character Creation
+
+> Trying this out... A super minimal way to ask 'character questions', give you a way to describe your character, and help inspire me for some creative... complications or results.
+
++ Pick 3 Adjectives to describe your character's personality.
++ Pick 2 Adjectives to describe your character's physical appearance and mannerisms.
++ Pick an Archetype: the 'Theme' of character you are going for - This will help integrate some starting questions with Class Warfare.
++ Be prepared to answer the following Questions:
+  - How do you Explore a new place?
+  - How do you interact with others?
+    - What about someone who challenges your viewpoint of the world?
+  - How do you fight?
+
 #### Class Warfare Characters*
+
 + You get 2 specialties at first level. (+ Heritage, See below)
 + You may acquire a 3rd speciality by meeting the requirements of that compendium class.
 + Some specialities may be acquired only through compendium class requirements ('Prestige Classes')
 + Note: You don’t get the ‘Free’ outside-archetype/specialization moves. You must meet the Requirements of those Prestige/Compendium classes to take those moves.
 + Luck Move is Banned at the outset. If you happen to have an extraordinarily lucky (or unlucky) set of rolls during a session or campaign, that might become available to your character.
 
-#### Character Creation
-
-> Trying this out... A super minimal way to ask 'character questions', give you a way to describe your character, and help inspire me for some creative... complications or results.
-
-+ Pick 3 Adjectives to describe your character's personality: suggested -> 2 Positive Adjectives, 1 Negative Adjective ^fd1400
-+ Pick 2 Adjectives to describe your character's physical appearance and mannerisms.
-+ Pick an Archetype: the 'Theme' of character you are going for - This will help integrate some starting questions with Class Warfare.
-+ Be prepared to answer [[Trevail Character Questions]]
 
 #### Heritage
 
@@ -73,6 +79,13 @@ draft: false
 + (See Advantage) Some Legendary beings are so powerful that they defy conventional approaches. You'll need an advantage against them to even have a chance.
 
 ### House-rules
+
+
+#### Miscellaneous Rulings
+
+- I want this game and world to be collaborative and improvisational with you, the players.
+- Expect rolls, and ad-hoc rulings. I will do my best to maintain a running list of rulings and decisions so that we can maintain consistency.
+- Some House-Rules might need adjustment during play to better suit the pacing and power-scaling of the campaign. We'll do this as needed and retcon where appropriate.
 
 #### Advantage and Disadvantage
 
@@ -98,19 +111,6 @@ draft: false
 - Movement between zones will require defying danger, using movement/abilities ect...
 - This ties into weapon tags [Close], [Near], [Far]
 
-#### Size as Armor
-
-> I really like the Idea of Size being a major factor in dealing damage, ect that was a HUGE impact on how we handled fights in Eric's last campaign... There are probably a few ways to handle this and I would like to experiment with a few.
-
-- Player Character Races Start as Size-1
-- 1 Armor for every size difference between attacker and defender
-- AP only ignores half of this bonus armor*
-	- Might need to play with this modifier to balance fights appropriately
-- ==This Idea needs some work==
-  - Maybe lair actions and legendary resistances from [[Dungeons and Dragons 5th Edition]]
-- Smaller Sizes have *an advantage* at fighting in closer quarters. Targeting Range?
-
-#### Debilities and Healing
 
 #### Downtime
 
