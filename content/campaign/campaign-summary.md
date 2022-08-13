@@ -60,7 +60,9 @@ draft: false
 #### Class Warfare Characters*
 
 + You get 2 specialties at first level. (+ Heritage, See below)
++ Choose a primary Archetype if you multiclass, this works as your base Archetype. Multiclassing follows the same rules as core-Class Warfare otherwise (in terms of damage die, HP, ect...)
 + You may acquire a 3rd speciality by meeting the requirements of that compendium class.
++ Any 'Racial' option from your chosen Archetype/Specialty may be selected at Character Creation
 + Some specialities may be acquired only through compendium class requirements ('Prestige Classes')
 + Note: You don’t get the ‘Free’ outside-archetype/specialization moves. You must meet the Requirements of those Prestige/Compendium classes to take those moves.
 + Adventurer/'The Fool' (aka Luck) is ONLY available as a Prestige/Compendium Class. If you happen to have an extraordinarily lucky (or unlucky) set of rolls during a session or campaign, that might become available to your character.
@@ -72,6 +74,7 @@ draft: false
 
 - the world is diverse and wild, full of many cultures.
 - You get the Monstrous Heritage Compendium Class at 1st Level. We're just going to call this 'Heritage', aka you don't have to be a Monster.
+- Heritage/Blood and Tradition (Move) may be keyed off of a mental stat (Wis, Int, Cha) of your choosing.
 
 #### Unique Monsters, Unique Challenges:
 
