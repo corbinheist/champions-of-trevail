@@ -57,6 +57,9 @@ draft: false
     - What about someone who challenges your viewpoint of the world?
   - How do you fight?
 
+[HERE IS A TEMPLATE CHARACTER SHEET](https://www.dropbox.com/t/69YScKkfHKSBNiyF)
+
+
 #### Class Warfare Characters*
 
 + You get 2 specialties at first level. (+ Heritage, See below)

@@ -1,5 +1,5 @@
 ---
-title: "Adjudications"
+title: "Draft Rules"
 date: 2022-08-13
 draft: true
 ---
