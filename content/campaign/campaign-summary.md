@@ -7,7 +7,7 @@ draft: false
 
 
 
-## Truths
+## Trevail
 
 - Trevail is a land of Upheaval, Broken by the arcane machinations of an age long past - that still grasps at this world in alien ways. The Land is literally broken in places, crevasses and canyons that descend beyond the depths and into the arcane maelstrom that powers the world.
   - [Grimdark Fantasy](https://www.theazrianportal.com/blog/what-is-grimdark), expect hard choices and grey tasks and everything has a price - but this is still fantasy.
@@ -15,6 +15,8 @@ draft: false
 - Civilization has made great strides, but the wilds between settlements are still dangerous and unpredictable. The common person generally requires protection to survive.
 - All forms of Magic: Blade, Arcane, Mind, and Divine are connected to the same source, the great arcane machines that power the world.
 - Your honor and how you're perceived as of great import in Trevall.
+
+> Further Truths about the campaign world will be revealed during our Session-0, as the characters are introduced...
 
 ### About The Setting of Trevail
 
@@ -49,7 +51,6 @@ draft: false
 
 + Pick 3 Adjectives to describe your character's personality.
 + Pick 2 Adjectives to describe your character's physical appearance and mannerisms.
-+ Pick an Archetype: the 'Theme' of character you are going for - This will help integrate some starting questions with Class Warfare.
 + Be prepared to answer the following Questions:
   - How do you Explore a new place?
   - How do you interact with others?
@@ -88,7 +89,9 @@ draft: false
 - I want this game and world to be collaborative and improvisational with you, the players.
 - Expect rolls, and ad-hoc rulings. I will do my best to maintain a running list of rulings and decisions so that we can maintain consistency.
 - Some House-Rules might need adjustment during play to better suit the pacing and power-scaling of the campaign. We'll do this as needed and retcon where appropriate.
-- Expect Debilities, Ability Checks
+- Expect Debilities, Ability Checks and other things that might make Single Attribute Dependency a dangerous risk
+
+> Note: I have a few other house-rules that I am working on, and might introduce into the campaign. Those will be updated here and players will get the chance to retcon as necessary to adapt to those changes.
 
 #### Advantage and Disadvantage
 
@@ -118,6 +121,7 @@ draft: false
 #### Downtime
 
 > Downtime will be handled Asynchronously. When the Party/Characters are in a safe spot, we will handle this between sessions, and provide the other players a quick summary at the beginning of the session.
+
 
 ## References
 
