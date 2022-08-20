@@ -78,6 +78,7 @@ draft: false
 - the world is diverse and wild, full of many cultures.
 - You get the Monstrous Heritage Compendium Class at 1st Level. We're just going to call this 'Heritage', aka you don't have to be a Monster.
 - Heritage/Blood and Tradition (Move) may be keyed off of a mental stat (Wis, Int, Cha) of your choosing.
+- Heritage Counts as your base specialty for purposes of multiclassing.
 
 #### Unique Monsters, Unique Challenges:
 
