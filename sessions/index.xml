@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Champions of Trevail</title>
+    <link>https://corbinheist.github.io/champions-of-trevail/sessions/</link>
+    <description>Recent content in Sessions on Champions of Trevail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://corbinheist.github.io/champions-of-trevail/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trevail Session 0</title>
+      <link>https://corbinheist.github.io/champions-of-trevail/sessions/trevail-0/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/sessions/trevail-0/</guid>
+      <description>Trevail Session 0 # An Ambush gone Awry&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
