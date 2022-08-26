@@ -16,5 +16,50 @@
       <description>This character should have a name</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://corbinheist.github.io/champions-of-trevail/characters/aruthi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/characters/aruthi/</guid>
+      <description>Aruthi</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://corbinheist.github.io/champions-of-trevail/characters/bartholem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/characters/bartholem/</guid>
+      <description>Bartholem</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://corbinheist.github.io/champions-of-trevail/characters/dripp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/characters/dripp/</guid>
+      <description>Dripp</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://corbinheist.github.io/champions-of-trevail/characters/rhukkan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/characters/rhukkan/</guid>
+      <description>Rhukkan</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://corbinheist.github.io/champions-of-trevail/characters/vrakk-and-frayn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://corbinheist.github.io/champions-of-trevail/characters/vrakk-and-frayn/</guid>
+      <description>Vrakk and Frayn</description>
+    </item>
+    
   </channel>
 </rss>
