@@ -157,13 +157,21 @@ Magic Weapon LEVEL 1 ONGOING
 Advancement
 
 Hand of Monkey
+
 Honorable Society
+
 Fueled by Honor*
+
 Worldy Wisdom*
+
 War Leader Compendium Class around level 4
+
 Tactical Commander
+
 Hands of the Monkey King
+
 Glorious Honor*
+
 Mark of Might*
 
 *maybe
