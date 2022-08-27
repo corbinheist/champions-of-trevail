@@ -38,8 +38,10 @@ Bonds:
 
 > Note: Don't Delete Completed bonds, just use `~~BOND~~` to ~~Strikethrough~~ them and add another.
 
-1. This is a Bond with another Character
-2. ~~This is a Resolved Bond with another Character~~
+1. I have fought Vrak in the past and found him to be a worthy foe. 
+2. Uruthi would benefit greatly from following my path. 
+3. I have heard of Drip’s exploits and am suitable impressed. 
+4. Bartholem may be a useful tool, if I can demonstrate my power to him. 
 
 EXP Triggers:
 
