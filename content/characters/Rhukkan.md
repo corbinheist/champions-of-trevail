@@ -17,8 +17,10 @@ draft: False
 
 # Rhukaan Daar
 
-Archetype: Disciple
+Archetype: Disciple(Battle-Mage)
+
 Specialties: Embodiment, Martial Hero, Heritage
+
 Character Adjectives: Honorable, Direct, Patient. Tall, Scarred, Still. 
 
 
@@ -44,11 +46,6 @@ Bonds:
 4. Bartholem may be a useful tool, if I can demonstrate my power to him. 
 
 
-EXP Triggers:
-
-- [ ] Trigger
-- [ ] Trigger
-- [ ] Trigger
 
 ## Stats
 
@@ -155,7 +152,7 @@ Magic Weapon LEVEL 1 ONGOING
 
 ## Advancement Tracker
 
-0. Archetype, Specialty 1, Specialty 2, Heritage
+1. Battle Mage (Disciple), Embodiment, Martial Hero, Heritage
 
 Advancement
 
