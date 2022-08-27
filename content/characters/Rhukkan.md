@@ -1,6 +1,6 @@
 ---
 date: "2022-08-25"
-tags: [inbox, TTRPG, TTRPG/Trevail, PlayerCharacter
+tags: [inbox, TTRPG, TTRPG/Trevail, PlayerCharacter]
 published: false
 Aliases: "Shortname"
 type: "Player Character"
