@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>inbox on Champions of Trevail</title>
-    <link>https://corbinheist.github.io/champions-of-trevail/tags/inbox/</link>
-    <description>Recent content in inbox on Champions of Trevail</description>
+    <title>PlayerCharacter on Champions of Trevail</title>
+    <link>https://corbinheist.github.io/champions-of-trevail/tags/playercharacter/</link>
+    <description>Recent content in PlayerCharacter on Champions of Trevail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://corbinheist.github.io/champions-of-trevail/tags/inbox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://corbinheist.github.io/champions-of-trevail/tags/playercharacter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://corbinheist.github.io/champions-of-trevail/characters/rhukkan/</link>
@@ -17,19 +17,6 @@
 How do you Explore a new place? How do you interact with others? What about someone who challenges your viewpoint of the world? How do you fight? Alignment and Bonds # Alignment:
 Why does your character follow this alignment? are there any stipulations?
 Lawful - Endanger yourself in order to follow the precepts you are devoted to.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://corbinheist.github.io/champions-of-trevail/campaign/grimdark-fantasy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://corbinheist.github.io/champions-of-trevail/campaign/grimdark-fantasy/</guid>
-      <description>Grimdark Fantasy # Check out these links for More Reading on Grimdark and its place in the Fantasy Spectrum
-What is Grimdark
-Beware of Heroes - A Guide to Grimdark
-Is it Grimdark or is it Horror?
-Heroic, Realistic, and Grimdark – the Shades of Fantasy</description>
     </item>
     
   </channel>
