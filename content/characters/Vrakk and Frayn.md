@@ -42,11 +42,6 @@ Bonds:
 3. [[Rhukaan Daar]] and Vrak have faced off
 4. [[Bartholem]] must be mollified and contained
 
-EXP Triggers:
-
-- [ ] Trigger
-- [ ] Trigger
-- [ ] Trigger
 
 ## Stats
 
