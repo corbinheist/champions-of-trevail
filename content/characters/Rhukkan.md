@@ -43,6 +43,7 @@ Bonds:
 3. I have heard of Drip’s exploits and am suitable impressed. 
 4. Bartholem may be a useful tool, if I can demonstrate my power to him. 
 
+
 EXP Triggers:
 
 - [ ] Trigger
@@ -75,76 +76,72 @@ Other Effects/Hold to Track:
 
 ## Moves
 
-Moves
-Devotion
+### Devotion
 Choose up to three spheres of influence (but always at least one) that your devotion gives you special insight into:
 
 - Battle
 - Honor
 
-Code of Honor: Do not refuse a challenge unless it is frivolous or would cause risk to a military endeavor. Represent clan and tribe with dignity, fidelity, and honesty. Show personal worth through victory and share out spoils and glory to those who have earned it. Bring back wealth and glory to clan and tribe. In single-combat, match strength with strength; in warfare, strive for victory. Accept hospitality when offered, and return it generously. 
+### Code of Honor: 
 
-Cast a Holy Spell
+- Do not refuse a challenge unless it is frivolous or would cause risk to a military endeavor. 
+- Represent clan and tribe with dignity, fidelity, and honesty. 
+- Show personal worth through victory and share out spoils and glory to those who have earned it. 
+- Bring back wealth and glory to clan and tribe. 
+- In single-combat, match strength with strength; in warfare, strive for victory. 
+- Accept hospitality when offered, and return it generously. 
 
-Sphere of Influence
+### Cast a Holy Spell
 
-Battle
+### Sphere of Influence
 
-Fight with Honour
+- Battle
 
-Fists of Fury
+### Fight with Honour
 
-Ancestral Heritage
+### Fists of Fury
+
+### Ancestral Heritage
 
 How do you honour your people and invoke your rights of blood and tradition? Choose one:
 
 - Enforcing your peoples’ code of honour.
 
-Blood and Tradition
+### Blood and Tradition
 
-Pour Forth Magical Chaos (Heritage)
+#### Pour Forth Magical Chaos (Heritage)
 When you cast a spell, you can choose to double the spell’s effects or double the number of targets affected, but you must also choose one: 
 •	Mark a debility of your choice. 
 •	The spell has additional, unwanted effects. The GM will tell you what. 
 •	You draw unwanted attention or put yourself in a spot. The GM will tell you how.
 
-Give Protection of Earth (Heritage)
+#### Give Protection of Earth (Heritage)
+
 When you give the protection of the earth to defend yourself or an ally from damage, the damage of is negated, but the target takes -1 forward.
 
-Lay Low the Mighty (Heritage)
+#### Lay Low the Mighty (Heritage)
+
 When you speak aloud your promise to defeat an enemy, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.
 
 
 ## Spells
 
-
-Spells
-Rote
+### Rote
 The Wisdom of War 
-
-First Level
 
 Bless LEVEL 1 ONGOING
 
 Magic Weapon LEVEL 1 ONGOING
 
-Third Level
+~~Fireball LEVEL 3~~
 
-Fireball LEVEL 3
+~~Immunity LEVEL 3 ONGOING~~
 
-Immunity LEVEL 3 ONGOING
+~~Summon Monster LEVEL 5 ONGOING~~
 
-Fifth Level
+~~Sever LEVEL 7 ONGOING~~
 
-Summon Monster LEVEL 5 ONGOING
-
-Seventh Level
-
-Sever LEVEL 7 ONGOING
-
-Ninth Level
-
-Rain of Fire LEVEL 9
+~~Rain of Fire LEVEL 9~~
 
 
 ## Gear & Encumbrance
@@ -161,6 +158,7 @@ Rain of Fire LEVEL 9
 0. Archetype, Specialty 1, Specialty 2, Heritage
 
 Advancement
+
 Hand of Monkey
 Honorable Society
 Fueled by Honor*
