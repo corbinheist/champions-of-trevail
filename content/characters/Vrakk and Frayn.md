@@ -26,6 +26,8 @@ draft: False
   - What about someone who challenges your viewpoint of the world?
 - How do you fight?
 
+Win Glory and Prove Strength. Prideful. in exile.
+
 ## Alignment and Bonds
 
 Alignment: 
@@ -34,8 +36,6 @@ Alignment:
 Good - Endanger yourself to combat an unnatural threat.
 
 Bonds:
-
-> Note: Don't Delete Completed bonds, just use `~~BOND~~` to ~~Strikethrough~~ them and add another.
 
 1. [[Vrakk and Frayn|Vrakk]] has witnessed [[Uruthi]]’s power
 2. Frayn wants to study [[Dripp]]
