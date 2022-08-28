@@ -40,6 +40,7 @@ Session 0 - Follow Up Questions
 ## Dripp
 
 - Do you *communicate* with The Black Blood? If so, how?
+- How did you *Forsee* Rhukkan playing an important role in things to come?
 
 ## Uruthi
 
@@ -48,4 +49,6 @@ Session 0 - Follow Up Questions
 
 ## Bartholem
 
+- what are your **Descriptive Adjectives**?
 - How did you become the leader of a company of Dwarvish mercenaries?
+- How do you honour your people and invoke your rights of blood and tradition? 
