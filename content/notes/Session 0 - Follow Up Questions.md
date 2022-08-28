@@ -1,6 +1,6 @@
 ---
 
-draft: True
+draft: False
 ---
 Session 0 - Follow Up Questions
 
