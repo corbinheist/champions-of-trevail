@@ -1,3 +1,7 @@
+---
+
+draft: True
+---
 Session 0 - Follow Up Questions
 
 ## @ALL
@@ -20,7 +24,6 @@ Session 0 - Follow Up Questions
 - You both have features that are counted as a Hireling. Check out the Perilous-Wilds Entry on Hirelings. pp18-23 (Chapter "Lead the Way")
 	- We might need to make some adjudications based on any potential conflicts between your classes and these rules.
 
-
 ## Rhukkan Daar
 
 - Tell me about your clan?
@@ -35,6 +38,8 @@ Session 0 - Follow Up Questions
 - Tell me about the act you comitted to become a *Destroyer*
 
 ## Dripp
+
+- Do you *communicate* with The Black Blood? If so, how?
 
 ## Uruthi
 
