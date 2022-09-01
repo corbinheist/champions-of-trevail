@@ -52,7 +52,7 @@ Experience:
 | Stat | Score | Mod | Notes on Buffs and Debilities                                      |
 | ---- | ----- | --- | ------------------------------------------------------------------ |
 | Str: | 9     | 0   |                                                                    |
-| Dex: | 12    | +1  | * -1 due to Debility*|
+| Dex: | 12    | +1  | |
 | Con: | 18    | +3  |                                                                    |
 | Int: | 18    | +3  |                                                                    |
 | Wis: | 15    | +2  |                                                                    |
